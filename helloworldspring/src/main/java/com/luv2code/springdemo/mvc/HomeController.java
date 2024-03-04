@@ -8,6 +8,6 @@ public class HomeController {
 
 	@RequestMapping("/")
 	public String showPage() {
-		return "Hello World Mogul Spring!";
+		return "helloworld";
 	}
 }
